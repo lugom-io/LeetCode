@@ -21,9 +21,9 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 1154 | [Day of the Year](/solutions/1154%20-%20Day%20of%20the%20Year.js)                                                                                             |      | Easy        |
 | 1716 | [Calculate Money in Leetcode Bank](/solutions/1716%20-%20Calculate%20Money%20in%20Leetcode%20Bank.js)                                                         |      | Easy        |
 | 1903 | [Largest Odd Number in String](/solutions/1903%20-%20Largest%20Odd%20Number%20in%20String.js)                                                                 |      | Easy        |
-| 2089 | [Find Target Indices After Sorting Array](/solutions/2089%20-%20Find%20Target%20Indices%20After%20Sorting%20Array.js)                                         |      | Medium      |
-| 2264 | [Largest 3-Same-Digit Number in String](/solutions/2264%20-%20Largest%203-Same-Digit%20Number%20in%20String.js)                                               |      | Medium      |
-| 2591 | [Distribute Money to Maximum Children](/solutions/2591%20-%20Distribute%20Money%20to%20Maximum%20Children.js)                                                 |      | Medium      |
+| 2089 | [Find Target Indices After Sorting Array](/solutions/2089%20-%20Find%20Target%20Indices%20After%20Sorting%20Array.js)                                         |      | Easy      |
+| 2264 | [Largest 3-Same-Digit Number in String](/solutions/2264%20-%20Largest%203-Same-Digit%20Number%20in%20String.js)                                               |      | Easy      |
+| 2591 | [Distribute Money to Maximum Children](/solutions/2591%20-%20Distribute%20Money%20to%20Maximum%20Children.js)                                                 |      | Easy      |
 | 2619 | [Array Prototype Last](/solutions/2619%20-%20Array%20Prototype%20Last.js)                                                                                     |      | Easy        |
 | 2621 | [Sleep](/solutions/2621%20-%20Sleep.js)                                                                                                                       |      | Easy        |
 | 2624 | [Snail Traversal](/solutions/2624%20-%20Snail%20Traversal.js)                                                                                                 |      | Medium      |
