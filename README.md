@@ -10,5 +10,5 @@ Explore essas implementações para aprimorar suas habilidades em programação,
 Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no Mac) para pesquisar as soluções.
 
 | #    | Soluções                                                                                                                                                                               | Tags | Dificuldade |
-| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------- | ------ |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------- |
 | 2618 | [Check if Object Instance of Class](/solution/2618.Check%20if%20Object%20Instance%20of%20Class)                                                                 |      | Medium     |
