@@ -25,7 +25,9 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 2264 | [Largest 3-Same-Digit Number in String](/solutions/2264%20-%20Largest%203-Same-Digit%20Number%20in%20String.js)                                               |      | Easy      |
 | 2591 | [Distribute Money to Maximum Children](/solutions/2591%20-%20Distribute%20Money%20to%20Maximum%20Children.js)                                                 |      | Easy      |
 | 2619 | [Array Prototype Last](/solutions/2619%20-%20Array%20Prototype%20Last.js)                                                                                     |      | Easy        |
+| 2620 | [Counter](/solutions/2620%20-%20Counter.js)                                                                                                                       |      | Easy        |
 | 2621 | [Sleep](/solutions/2621%20-%20Sleep.js)                                                                                                                       |      | Easy        |
+| 2623 | [Memoize](/solutions/2620%20-%20Memoize.js)                                                                                                                       |      | Medium        |
 | 2624 | [Snail Traversal](/solutions/2624%20-%20Snail%20Traversal.js)                                                                                                 |      | Medium      |
 | 2626 | [Array Reduce Transformation](/solutions/2626%20-%20Array%20Reduce%20Transformation.js)                                                                       |      | Easy        |
 | 2631 | [Group By](/solutions/2631%20-%20Group%20By.js)                                                                                                                    |      | Medium        |
