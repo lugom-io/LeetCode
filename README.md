@@ -30,5 +30,6 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 2623 | [Memoize](/solutions/2623%20-%20Memoize.js)                                                                                                                       |      | Medium        |
 | 2624 | [Snail Traversal](/solutions/2624%20-%20Snail%20Traversal.js)                                                                                                 |      | Medium      |
 | 2626 | [Array Reduce Transformation](/solutions/2626%20-%20Array%20Reduce%20Transformation.js)                                                                       |      | Easy        |
+| 2630 | [Memoize II](/solutions/2630%20-%20Memoize%20II.js)                                                                                                                    |      | Hard        |
 | 2631 | [Group By](/solutions/2631%20-%20Group%20By.js)                                                                                                                    |      | Medium        |
 | 2634 | [Filter Elements From Array](/solutions/2634%20-%20Filter%20Elements%20From%20Array.js)                                                                       |      | Easy      |
