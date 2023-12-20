@@ -27,7 +27,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 2619 | [Array Prototype Last](/solutions/2619%20-%20Array%20Prototype%20Last.js)                                                                                     |      | Easy        |
 | 2620 | [Counter](/solutions/2620%20-%20Counter.js)                                                                                                                       |      | Easy        |
 | 2621 | [Sleep](/solutions/2621%20-%20Sleep.js)                                                                                                                       |      | Easy        |
-| 2622 | [Cache With Time Limit](/solutions/2622%20-%20Cache%20With%20Time%20Limit.js)                                                                                                                       |      | Easy        |
+| 2622 | [Cache With Time Limit](/solutions/2622%20-%20Cache%20With%20Time%20Limit.js)                                                                                                                       |      | Medium        |
 | 2623 | [Memoize](/solutions/2623%20-%20Memoize.js)                                                                                                                       |      | Medium        |
 | 2624 | [Snail Traversal](/solutions/2624%20-%20Snail%20Traversal.js)                                                                                                 |      | Medium      |
 | 2626 | [Array Reduce Transformation](/solutions/2626%20-%20Array%20Reduce%20Transformation.js)                                                                       |      | Easy        |
