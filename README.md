@@ -23,6 +23,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 1903 | [Largest Odd Number in String](/solutions/1903%20-%20Largest%20Odd%20Number%20in%20String.js)                                                                 |      | Easy        |
 | 2089 | [Find Target Indices After Sorting Array](/solutions/2089%20-%20Find%20Target%20Indices%20After%20Sorting%20Array.js)                                         |      | Easy      |
 | 2264 | [Largest 3-Same-Digit Number in String](/solutions/2264%20-%20Largest%203-Same-Digit%20Number%20in%20String.js)                                               |      | Easy      |
+| 2553 | [Separe the Digits in an Array](/solutions/2553%20-%20Separe%20the%20Digits%20in%20an%20Array.js)                                               |      | Easy      |
 | 2591 | [Distribute Money to Maximum Children](/solutions/2591%20-%20Distribute%20Money%20to%20Maximum%20Children.js)                                                 |      | Easy      |
 | 2619 | [Array Prototype Last](/solutions/2619%20-%20Array%20Prototype%20Last.js)                                                                                     |      | Easy        |
 | 2620 | [Counter](/solutions/2620%20-%20Counter.js)                                                                                                                       |      | Easy        |
