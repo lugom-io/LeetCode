@@ -23,6 +23,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 1351 | [Count Negative Numbers in a Sorted Matrix](/solutions/1351%20-%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.js)                                                                                             |      | Easy        |
 | 1422 | [Maximum Score After Splitting a String](/solutions/1422%20-%20Maximum%20Score%20After%20Splitting%20a%20String.js)                                                                                             |      | Easy        |
 | 1482 | [Minimum Number of Days to Make m Bouquets](/solutions/1482%20-%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.js)                                                                                             |      | Medium        |
+| 1496 | [Path Crossing](/solutions/1496%20-%20Path%20Crossing.js)                                                                                             |      | Easy        |
 | 1716 | [Calculate Money in Leetcode Bank](/solutions/1716%20-%20Calculate%20Money%20in%20Leetcode%20Bank.js)                                                         |      | Easy        |
 | 1903 | [Largest Odd Number in String](/solutions/1903%20-%20Largest%20Odd%20Number%20in%20String.js)                                                                 |      | Easy        |
 | 2089 | [Find Target Indices After Sorting Array](/solutions/2089%20-%20Find%20Target%20Indices%20After%20Sorting%20Array.js)                                         |      | Easy      |
