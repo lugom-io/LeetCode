@@ -25,6 +25,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 1482 | [Minimum Number of Days to Make m Bouquets](/solutions/1482%20-%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.js)                                                                                             |      | Medium        |
 | 1496 | [Path Crossing](/solutions/1496%20-%20Path%20Crossing.js)                                                                                             |      | Easy        |
 | 1716 | [Calculate Money in Leetcode Bank](/solutions/1716%20-%20Calculate%20Money%20in%20Leetcode%20Bank.js)                                                         |      | Easy        |
+| 1758 | [Minimum Changes To Make Alternating Binary String](/solutions/1758%20-%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.js)                                                         |      | Easy        |
 | 1903 | [Largest Odd Number in String](/solutions/1903%20-%20Largest%20Odd%20Number%20in%20String.js)                                                                 |      | Easy        |
 | 2089 | [Find Target Indices After Sorting Array](/solutions/2089%20-%20Find%20Target%20Indices%20After%20Sorting%20Array.js)                                         |      | Easy      |
 | 2264 | [Largest 3-Same-Digit Number in String](/solutions/2264%20-%20Largest%203-Same-Digit%20Number%20in%20String.js)                                               |      | Easy      |
