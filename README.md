@@ -15,7 +15,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 13   | [Roman to Integer](/solutions/13%20-%20Roman%20to%20Integer.js)                                                                                               |      | Easy        |
 | 34   | [Find First and Last Position of Element in Sorted Array](/solutions/34%20-%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.js) |      | Medium      |
 | 35   | [Search Insert Position](/solutions/35%20-%20Search%20Insert%20Position.js)                                                                                   |      | Easy        |
-| 91   | [Decode Ways](/solutions/91%20-%20Decode%20Ways.js)                                                                                   |      | Easy        |
+| 91   | [Decode Ways](/solutions/91%20-%20Decode%20Ways.js)                                                                                   |      | Medium        |
 | 278  | [First Bad Version](/solutions/278%20-%20First%20Bad%20Version.js)                                                                                            |      | Easy        |
 | 704  | [Binary Search](/solutions/704%20-%20Binary%20Search.js)                                                                                            |      | Easy        |
 | 860  | [Lemonade Change](/solutions/860%20-%20Lemonade%20Change.js)                                                                                                  |      | Easy        |
@@ -39,6 +39,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 2623 | [Memoize](/solutions/2623%20-%20Memoize.js)                                                                                                                       |      | Medium        |
 | 2624 | [Snail Traversal](/solutions/2624%20-%20Snail%20Traversal.js)                                                                                                 |      | Medium      |
 | 2626 | [Array Reduce Transformation](/solutions/2626%20-%20Array%20Reduce%20Transformation.js)                                                                       |      | Easy        |
+| 2629 | [Function Composition](/solutions/2629%20-%20Function%20Composition.js)                                                                       |      | Easy        |
 | 2630 | [Memoize II](/solutions/2630%20-%20Memoize%20II.js)                                                                                                                    |      | Hard        |
 | 2631 | [Group By](/solutions/2631%20-%20Group%20By.js)                                                                                                                    |      | Medium        |
 | 2634 | [Filter Elements From Array](/solutions/2634%20-%20Filter%20Elements%20From%20Array.js)                                                                       |      | Easy      |
