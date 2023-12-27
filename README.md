@@ -16,6 +16,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 34   | [Find First and Last Position of Element in Sorted Array](/solutions/34%20-%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.js) |      | Medium      |
 | 35   | [Search Insert Position](/solutions/35%20-%20Search%20Insert%20Position.js)                                                                                   |      | Easy        |
 | 91   | [Decode Ways](/solutions/91%20-%20Decode%20Ways.js)                                                                                   |      | Medium        |
+| 169   | [Majority Element](/solutions/169%20-%20Majority%20Element.js)                                                                                   |      | Easy        |
 | 278  | [First Bad Version](/solutions/278%20-%20First%20Bad%20Version.js)                                                                                            |      | Easy        |
 | 704  | [Binary Search](/solutions/704%20-%20Binary%20Search.js)                                                                                            |      | Easy        |
 | 860  | [Lemonade Change](/solutions/860%20-%20Lemonade%20Change.js)                                                                                                  |      | Easy        |
