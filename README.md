@@ -45,3 +45,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 2630 | [Memoize II](/solutions/2630%20-%20Memoize%20II.js)                                                                                                                    |      | Hard        |
 | 2631 | [Group By](/solutions/2631%20-%20Group%20By.js)                                                                                                                    |      | Medium        |
 | 2634 | [Filter Elements From Array](/solutions/2634%20-%20Filter%20Elements%20From%20Array.js)                                                                       |      | Easy      |
+| 2648 | [Generate Fibonacci Sequence](/solutions/2648%20-%20Generate%20Fibonacci%20Sequence.js)                                                                       |      | Easy      |
