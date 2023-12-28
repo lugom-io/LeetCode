@@ -47,3 +47,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 2634 | [Filter Elements From Array](/solutions/2634%20-%20Filter%20Elements%20From%20Array.js)                                                                       |      | Easy      |
 | 2635 | [Apply Transform Over Each Element in Array](/solutions/2635%20-%20Apply%20Transform%20Over%20Each%20Element%20in%20Array.js)                                                                       |      | Easy      |
 | 2648 | [Generate Fibonacci Sequence](/solutions/2648%20-%20Generate%20Fibonacci%20Sequence.js)                                                                       |      | Easy      |
+| 2665 | [Counter II](/solutions/2665%20-%20Counter%20II.js)                                                                       |      | Easy      |
