@@ -48,3 +48,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 2635 | [Apply Transform Over Each Element in Array](/solutions/2635%20-%20Apply%20Transform%20Over%20Each%20Element%20in%20Array.js)                                                                       |      | Easy      |
 | 2648 | [Generate Fibonacci Sequence](/solutions/2648%20-%20Generate%20Fibonacci%20Sequence.js)                                                                       |      | Easy      |
 | 2665 | [Counter II](/solutions/2665%20-%20Counter%20II.js)                                                                       |      | Easy      |
+| 2667 | [Create Hello World Function](/solutions/2667%20-%20Create%20Hello%20World%20Function.js)                                                                       |      | Easy      |
