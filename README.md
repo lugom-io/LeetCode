@@ -53,3 +53,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 2665 | [Counter II](/solutions/2665%20-%20Counter%20II.js)                                                                       | Easy      |
 | 2666 | [Allow One Function Call](/solutions/2666%20-%20Allow%20One%20Function%20Call.js)                                                                       | Easy      |
 | 2667 | [Create Hello World Function](/solutions/2667%20-%20Create%20Hello%20World%20Function.js)                                                                       | Easy      |
+| 2677 | [Chunk Array](/solutions/2677%20-%20Chunk%20Array.js)                                                                       | Easy      |
