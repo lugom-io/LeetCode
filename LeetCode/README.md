@@ -55,3 +55,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 2667 | [Create Hello World Function](/LeetCode/solutions/2667%20-%20Create%20Hello%20World%20Function.js)                           | Easy        |
 | 2677 | [Chunk Array](/LeetCode/solutions/2677%20-%20Chunk%20Array.js)                                                               | Easy        |
 | 2693 | [Call Function with Custom Context](/LeetCode/solutions/2693%20-%20Call%20Function%20with%20Custom%20Context.js)                                                               | Medium        |
+| 2695 | [Array Wrapper](/LeetCode/solutions/2695%20-%20Array%20Wrapper.js)                                                               | Medium        |
