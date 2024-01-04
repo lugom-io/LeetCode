@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="utf-8">
+    <title>Teste de Tooltip</title>
+    <style>
+        .tooltipDiv {
+            width: 200px;
+            height: 200px;
+            border-radius: 500px;
+            background-color: yellow;
+            font-size: 12px;
+            font-weight: bold;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .container {
+            display: flex;
+            gap: 5px;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Testando Tooltip</h1>
+        <p>O atributo `title` define alguma informações extras sobre um elemento.<br><br>O valor atribuído é usado como dica quando o usuário passa o mouse por cima do elemento.</p>
+        <div title="Oi! Eu sou um tooltip." class="tooltipDiv">Passe o mouse por cima de mim</div>
+    </div>
+</body>
+
+</html>

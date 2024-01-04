@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="utf-8">
+    <title>Mapa de Imagem</title>
+</head>
+
+<body>
+
+    <h1>Mapa de Imagem</h1>
+    <p>Clique em alguma lampada</p>
+    <img src="https://img.freepik.com/vetores-gratis/lampadas-incandescentes-realistas_52683-28831.jpg?w=740&t=st=1704404523~exp=1704405123~hmac=e0ffb9056e03978aa555f4feb235d1102715edcd91cef9a8516b3643ac51d056"
+        alt="Quatro lampadas acesas em um fundo escuro" usemap="#lampadas" style="width: 740px;height: 740px;">
+
+    <map name="lampadas">
+        <area style="cursor: pointer;" shape="rect" coords="100,200,140,500" onclick="lamp('01')">
+        <area style="cursor: pointer;" shape="poly" coords="260,240,250,300,240,340,210,585,340,590,300,340,295,314,298,250" onclick="lamp('02')">
+        <area style="cursor: pointer;" shape="circle" coords="440,480,50" onclick="lamp('03')">
+        <area style="cursor: pointer;" shape="rect" coords="570,370,635,590" onclick="lamp('04')">
+    </map>
+
+    <script>
+        function lamp(lampada){
+            alert(`Você clicou na lampada ${lampada}`);
+        }
+    </script>
+</body>
+
+</html>
