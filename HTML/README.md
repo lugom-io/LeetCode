@@ -10,3 +10,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | # | HTML |
 | ---- | ---- |
 | 1 | [Hello World](/HTML/codes/Hello%20World.html) |
+| 2 | [Tooltip](/HTML/codes/Tooltip.html) |
+| 3 | [Pre](/HTML/codes/Pre.html) |
+| 4 | [Image Map](/HTML/codes/Image%20Map.html) |
+| 5 | [Citation](/HTML/codes/Citation.html) |
