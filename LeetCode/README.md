@@ -56,3 +56,5 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 2677 | [Chunk Array](/LeetCode/solutions/2677%20-%20Chunk%20Array.js)                                                               | Easy        |
 | 2693 | [Call Function with Custom Context](/LeetCode/solutions/2693%20-%20Call%20Function%20with%20Custom%20Context.js)                                                               | Medium        |
 | 2695 | [Array Wrapper](/LeetCode/solutions/2695%20-%20Array%20Wrapper.js)                                                               | Medium        |
+| 2703 | [Return Length of Arguments Passed](/LeetCode/solutions/2703%20-%20Return%20Length%20of%20Arguments%20Passed.js)                                                               | Easy        |
+| 2704 | [To Be Or Not To Be](/LeetCode/solutions/2704%20-%20To%20Be%20Or%20Not%20To%20Be.js)                                                               | Easy        |
