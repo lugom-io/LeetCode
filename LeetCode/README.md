@@ -58,3 +58,5 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 2695 | [Array Wrapper](/LeetCode/solutions/2695%20-%20Array%20Wrapper.js)                                                               | Medium        |
 | 2703 | [Return Length of Arguments Passed](/LeetCode/solutions/2703%20-%20Return%20Length%20of%20Arguments%20Passed.js)                                                               | Easy        |
 | 2704 | [To Be Or Not To Be](/LeetCode/solutions/2704%20-%20To%20Be%20Or%20Not%20To%20Be.js)                                                               | Easy        |
+| 2715 | [Timeout Cancellation](/LeetCode/solutions/2715%20-%20Timeout%20Cancellation.js)                                                               | Easy        |
+| 2724 | [Sort By](/LeetCode/solutions/2724%20-%20Sort%20By.js)                                                               | Easy        |
