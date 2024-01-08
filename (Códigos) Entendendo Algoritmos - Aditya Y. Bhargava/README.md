@@ -13,4 +13,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 2 | [Divide to Conquer](/(Códigos)%20Entendendo%20Algoritmos%20-%20Aditya%20Y.%20Bhargava/codes/Divide%20to%20Conquer.js) |
 | 3 | [Quick Sort](/(Códigos)%20Entendendo%20Algoritmos%20-%20Aditya%20Y.%20Bhargava/codes/QuickSort.js) |
 | 4 | [Selection Sort](/(Códigos)%20Entendendo%20Algoritmos%20-%20Aditya%20Y.%20Bhargava/codes/Selection%20Sort.js) |
-| 4 | [Selection Sort](/(Códigos)%20Entendendo%20Algoritmos%20-%20Aditya%20Y.%20Bhargava/codes/Hash%20Table.js) |
+| 5 | [Hash Table](/(Códigos)%20Entendendo%20Algoritmos%20-%20Aditya%20Y.%20Bhargava/codes/Hash%20Table.js) |
