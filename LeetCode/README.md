@@ -22,6 +22,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 506  | [Relative Ranks](/LeetCode/solutions/506%20-%20Relative%20Ranks.js)                                                          | Easy        |
 | 704  | [Binary Search](/LeetCode/solutions/704%20-%20Binary%20Search.js)                                                              | Easy        |
 | 860  | [Lemonade Change](/LeetCode/solutions/860%20-%20Lemonade%20Change.js)                                                        | Easy        |
+| 872  | [Leaf-Similar Trees](/LeetCode/solutions/872%20-%20Leaf-Similar%20Trees.js)                                                        | Easy        |
 | 938  | [Range Sum of BST](/LeetCode/solutions/938%20-%20Range%20Sum%20of%20BST.js)                                                        | Easy        |
 | 1103 | [Distribute Candies to People](/LeetCode/solutions/1103%20-%20Distribute%20Candies%20to%20People.js)                         | Easy        |
 | 1154 | [Day of the Year](/LeetCode/solutions/1154%20-%20Day%20of%20the%20Year.js)                                                  | Easy        |
