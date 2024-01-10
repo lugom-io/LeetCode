@@ -21,6 +21,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 455  | [Assign Cookies](/LeetCode/solutions/455%20-%20Assign%20Cookies.js)                                                          | Easy        |
 | 506  | [Relative Ranks](/LeetCode/solutions/506%20-%20Relative%20Ranks.js)                                                          | Easy        |
 | 704  | [Binary Search](/LeetCode/solutions/704%20-%20Binary%20Search.js)                                                              | Easy        |
+| 771  | [Jewels and Stones](/LeetCode/solutions/771%20-%20Jewels%20and%20Stones.js)                                                              | Easy        |
 | 860  | [Lemonade Change](/LeetCode/solutions/860%20-%20Lemonade%20Change.js)                                                        | Easy        |
 | 872  | [Leaf-Similar Trees](/LeetCode/solutions/872%20-%20Leaf-Similar%20Trees.js)                                                        | Easy        |
 | 938  | [Range Sum of BST](/LeetCode/solutions/938%20-%20Range%20Sum%20of%20BST.js)                                                        | Easy        |
@@ -30,6 +31,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 1422 | [Maximum Score After Splitting a String](/LeetCode/solutions/1422%20-%20Maximum%20Score%20After%20Splitting%20a%20String.js)                                                  | Easy        |
 | 1482 | [Minimum Number of Days to Make m Bouquets](/LeetCode/solutions/1482%20-%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.js)                                      | Medium      |
 | 1496 | [Path Crossing](/LeetCode/solutions/1496%20-%20Path%20Crossing.js)                                                           | Easy        |
+| 1512 | [Number of Good Pairs](/LeetCode/solutions/1512%20-%20Number%20of%20Good%20Pairs.js)                                                           | Easy        |
 | 1624 | [Largest Substring Between Two Equal Characters](/LeetCode/solutions/1624%20-%20Largest%20Substring%20Between%20Two%20Equal%20Characters.js)                                      | Easy        |
 | 1716 | [Calculate Money in Leetcode Bank](/LeetCode/solutions/1716%20-%20Calculate%20Money%20in%20Leetcode%20Bank.js)               | Easy        |
 | 1758 | [Minimum Changes To Make Alternating Binary String](/LeetCode/solutions/1758%20-%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.js)                           | Easy        |
