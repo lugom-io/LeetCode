@@ -21,6 +21,8 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 455  | [Assign Cookies](/LeetCode/solutions/455%20-%20Assign%20Cookies.js)                                                          | Easy        |
 | 506  | [Relative Ranks](/LeetCode/solutions/506%20-%20Relative%20Ranks.js)                                                          | Easy        |
 | 704  | [Binary Search](/LeetCode/solutions/704%20-%20Binary%20Search.js)                                                              | Easy        |
+| 705  | [Design HashSet](/LeetCode/solutions/705%20-%20Design%20HashSet.js)                                                              | Easy        |
+| 706  | [Design HashMap](/LeetCode/solutions/706%20-%20Design%20HashMap.js)                                                              | Easy        |
 | 771  | [Jewels and Stones](/LeetCode/solutions/771%20-%20Jewels%20and%20Stones.js)                                                              | Easy        |
 | 860  | [Lemonade Change](/LeetCode/solutions/860%20-%20Lemonade%20Change.js)                                                        | Easy        |
 | 872  | [Leaf-Similar Trees](/LeetCode/solutions/872%20-%20Leaf-Similar%20Trees.js)                                                        | Easy        |
