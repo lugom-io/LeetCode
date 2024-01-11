@@ -14,3 +14,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 3 | [Pre](/HTML/codes/Pre.html) |
 | 4 | [Image Map](/HTML/codes/Image%20Map.html) |
 | 5 | [Citation](/HTML/codes/Citation.html) |
+| 6 | [Canvas](/HTML/codes/Canvas.html) |

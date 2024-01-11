@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canvas</title>
+
+    <style>
+        .canvas {
+            border: 1px solid black;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: row;
+            gap: 2rem;
+            align-items: flex-start;
+            flex-wrap: wrap;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Teste de Uso do Canvas</h1>
+    <section class="container">
+        <canvas id="meuCanvas" width="300" height="300" class="canvas">
+        </canvas>
+        <canvas id="meuCanvas2" width="300" height="300" class="canvas">
+        </canvas>
+        <canvas id="meuCanvas3" width="500" height="300" class="canvas">
+        </canvas>
+        <canvas id="meuCanvas4" width="500" height="300" class="canvas">
+        </canvas>
+        <canvas id="meuCanvas5" width="300" height="300" class="canvas">
+        </canvas>
+    </section>
+
+
+    <script>
+
+        // canvas 1
+
+        let canvas = document.getElementById("meuCanvas");
+        let ctx = canvas.getContext("2d");
+
+        ctx.moveTo(0, 0);
+        ctx.lineTo(300, 300);
+        ctx.stroke();
+
+        // canvas 2
+
+        let canvas2 = document.getElementById("meuCanvas2");
+        let ctx2 = canvas2.getContext("2d");
+
+        ctx2.beginPath();
+        ctx2.arc(150, 150, 100, 0, 2 * Math.PI);
+        ctx2.stroke();
+
+        // canvas 3
+
+        let canvas3 = document.getElementById("meuCanvas3");
+        let ctx3 = canvas3.getContext("2d");
+
+        ctx3.beginPath();
+        ctx3.moveTo(0, 0);
+        ctx3.lineTo(500, 300);
+        ctx3.stroke();
+
+        ctx3.beginPath();
+        ctx3.moveTo(500, 0);
+        ctx3.lineTo(0, 300);
+        ctx3.stroke();
+
+        // canvas 4
+
+        let canvas4 = document.getElementById("meuCanvas4");
+        let ctx4 = canvas4.getContext("2d");
+
+        ctx4.beginPath();
+        ctx4.arc(250, 150, 100, 0, 2 * Math.PI);
+        ctx4.fillStyle = "#ffd400";
+        ctx4.fill();
+        ctx4.stroke();
+
+        ctx4.beginPath();
+        ctx4.moveTo(0, 0);
+        ctx4.lineTo(250, 150);
+        ctx4.stroke();
+
+        ctx4.beginPath();
+        ctx4.moveTo(500, 0);
+        ctx4.lineTo(250, 150);
+        ctx4.stroke();
+
+        // canvas 5
+
+        let canvas5 = document.getElementById("meuCanvas5");
+        let ctx5 = canvas5.getContext("2d");
+
+        ctx5.beginPath();
+        ctx5.arc(150, 150, 140, 0, 2 * Math.PI);
+        ctx5.fillStyle = "#ffd400";
+        ctx5.fill();
+        ctx5.stroke();
+
+        ctx5.beginPath();
+        ctx5.moveTo(80, 120);
+        ctx5.lineTo(120, 120);
+        ctx5.stroke();
+
+        ctx5.beginPath();
+        ctx5.moveTo(180, 120);
+        ctx5.lineTo(220, 120);
+        ctx5.stroke();
+
+        ctx5.beginPath();
+        ctx5.moveTo(80, 220);
+        ctx5.bezierCurveTo(80, 220, 150, 280, 220, 220);
+        ctx5.stroke();
+    </script>
+</body>
+
+</html>
