@@ -29,6 +29,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 938  | [Range Sum of BST](/LeetCode/solutions/938%20-%20Range%20Sum%20of%20BST.js)                                                        | Easy        |
 | 1103 | [Distribute Candies to People](/LeetCode/solutions/1103%20-%20Distribute%20Candies%20to%20People.js)                         | Easy        |
 | 1154 | [Day of the Year](/LeetCode/solutions/1154%20-%20Day%20of%20the%20Year.js)                                                  | Easy        |
+| 1347 | [Minimum Number of Steps to Make Two Strings Anagram](/LeetCode/solutions/1347%20-%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.js)                                                  | Medium        |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](/LeetCode/solutions/1351%20-%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.js)                                                  | Easy        |
 | 1422 | [Maximum Score After Splitting a String](/LeetCode/solutions/1422%20-%20Maximum%20Score%20After%20Splitting%20a%20String.js)                                                  | Easy        |
 | 1482 | [Minimum Number of Days to Make m Bouquets](/LeetCode/solutions/1482%20-%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.js)                                      | Medium      |
