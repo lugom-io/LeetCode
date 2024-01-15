@@ -42,6 +42,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 1897 | [Redistribute Characters to Make All Strings Equal](/LeetCode/solutions/1897%20-%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.js)                           | Easy        |
 | 1903 | [Largest Odd Number in String](/LeetCode/solutions/1903%20-%20Largest%20Odd%20Number%20in%20String.js)                       | Easy        |
 | 2089 | [Find Target Indices After Sorting Array](/LeetCode/solutions/2089%20-%20Find%20Target%20Indices%20After%20Sorting%20Array.js) | Easy        |
+| 2225 | [Find Players With Zero or One Losses](/LeetCode/solutions/2225%20-%20Find%20Players%20With%20Zero%20or%20One%20Losses.js) | Medium        |
 | 2264 | [Largest 3-Same-Digit Number in String](/LeetCode/solutions/2264%20-%20Largest%203-Same-Digit%20Number%20in%20String.js)   | Easy        |
 | 2553 | [Separe the Digits in an Array](/LeetCode/solutions/2553%20-%20Separe%20the%20Digits%20in%20an%20Array.js)                 | Easy        |
 | 2591 | [Distribute Money to Maximum Children](/LeetCode/solutions/2591%20-%20Distribute%20Money%20to%20Maximum%20Children.js)       | Easy        |
