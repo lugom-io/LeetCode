@@ -18,6 +18,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 91   | [Decode Ways](/LeetCode/solutions/91%20-%20Decode%20Ways.js)                                                                 | Medium      |
 | 169  | [Majority Element](/LeetCode/solutions/169%20-%20Majority%20Element.js)                                                      | Easy        |
 | 278  | [First Bad Version](/LeetCode/solutions/278%20-%20First%20Bad%20Version.js)                                                  | Easy        |
+| 380  | [Insert Delete GetRandom O(1)](/LeetCode/solutions/380%20-%20Insert%20Delete%20GetRandom%20O(1).js)                                                  | Medium        |
 | 455  | [Assign Cookies](/LeetCode/solutions/455%20-%20Assign%20Cookies.js)                                                          | Easy        |
 | 506  | [Relative Ranks](/LeetCode/solutions/506%20-%20Relative%20Ranks.js)                                                          | Easy        |
 | 704  | [Binary Search](/LeetCode/solutions/704%20-%20Binary%20Search.js)                                                              | Easy        |
