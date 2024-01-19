@@ -35,6 +35,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](/LeetCode/solutions/1347%20-%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.js)                                                  | Medium        |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](/LeetCode/solutions/1351%20-%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.js)                                                  | Easy        |
 | 1422 | [Maximum Score After Splitting a String](/LeetCode/solutions/1422%20-%20Maximum%20Score%20After%20Splitting%20a%20String.js)                                                  | Easy        |
+| 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](/LeetCode/solutions/1455%20-%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.js)                                                  | Easy        |
 | 1482 | [Minimum Number of Days to Make m Bouquets](/LeetCode/solutions/1482%20-%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.js)                                      | Medium      |
 | 1496 | [Path Crossing](/LeetCode/solutions/1496%20-%20Path%20Crossing.js)                                                           | Easy        |
 | 1512 | [Number of Good Pairs](/LeetCode/solutions/1512%20-%20Number%20of%20Good%20Pairs.js)                                                           | Easy        |
