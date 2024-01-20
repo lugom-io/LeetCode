@@ -6,28 +6,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HTML Semântico</title>
     <style>
-        .tag{
+        .tag {
             padding: 20px;
             border: 1px dashed gray;
         }
 
-        .header{
+        .header {
             background-color: rgba(0, 255, 255, 0.3);
         }
 
-        .footer{
+        .footer {
             background-color: rgba(255, 6, 6, 0.3);
         }
 
-        .main{
+        .main {
             background-color: rgba(20, 150, 10, 0.3);
         }
 
-        .section{
+        .section {
             background-color: rgba(239, 255, 12, 0.3);
         }
 
-        .article{
+        .article {
             background-color: rgba(255, 0, 212, 0.3);
         }
     </style>
@@ -47,19 +47,25 @@
 
     <main class="tag main">
         <h2>Main:</h2>
-        <section class="tag section"><h3>Section:</h3><br>Parte 1 do conteúdo</section>
+        <section class="tag section">
+            <h3>Section:</h3><br>
+            <p>Parte 1 do conteúdo</p>
+        </section>
         <section class="tag section">
             <h3>Section:</h3><br>
             <p>Parte 2 do conteúdo</p>
             <article class="tag article">
-                <h3>Article:</h3>
+                <h4>Article:</h4>
                 <p>Conteúdo independente na seção</p>
             </article>
         </section>
         <article class="tag article">
             <h3>Article:</h3><br>
             <p>Conteúdo independente</p>
-            <section class="tag section"><h3>Section:</h3><br><p>Seção no Article</p></section>
+            <section class="tag section">
+                <h4>Section:</h4><br>
+                <p>Seção no Article</p>
+            </section>
         </article>
     </main>
 

@@ -16,4 +16,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 5 | [Citation](/HTML/codes/Citation.html) |
 | 6 | [Canvas](/HTML/codes/Canvas.html) |
 | 7 | [Form](/HTML/codes/Form.html) |
-| 7 | [Semantic](/HTML/codes/Semantic.html) |
+| 8 | [Semantic](/HTML/codes/Semantic.html) |
