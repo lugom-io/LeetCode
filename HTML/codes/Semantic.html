@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Semântico</title>
+    <style>
+        .tag{
+            padding: 20px;
+            border: 1px dashed gray;
+        }
+
+        .header{
+            background-color: rgba(0, 255, 255, 0.3);
+        }
+
+        .footer{
+            background-color: rgba(255, 6, 6, 0.3);
+        }
+
+        .main{
+            background-color: rgba(20, 150, 10, 0.3);
+        }
+
+        .section{
+            background-color: rgba(239, 255, 12, 0.3);
+        }
+
+        .article{
+            background-color: rgba(255, 0, 212, 0.3);
+        }
+    </style>
+</head>
+
+<body>
+    <header class="tag header">
+        <h2>Header:</h2>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/contato">Contato</a></li>
+                <li><a href="/sobre">Sobre</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="tag main">
+        <h2>Main:</h2>
+        <section class="tag section"><h3>Section:</h3><br>Parte 1 do conteúdo</section>
+        <section class="tag section">
+            <h3>Section:</h3><br>
+            <p>Parte 2 do conteúdo</p>
+            <article class="tag article">
+                <h3>Article:</h3>
+                <p>Conteúdo independente na seção</p>
+            </article>
+        </section>
+        <article class="tag article">
+            <h3>Article:</h3><br>
+            <p>Conteúdo independente</p>
+            <section class="tag section"><h3>Section:</h3><br><p>Seção no Article</p></section>
+        </article>
+    </main>
+
+    <footer class="tag footer">
+        <h2>Footer:</h2>
+        <address>
+            <span>Rua 75</span><br>
+            <span>contato@contato.com</span>
+        </address>
+        <small>Copyright</small>
+    </footer>
+</body>
+
+</html>

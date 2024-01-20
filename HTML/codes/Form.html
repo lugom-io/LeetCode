@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <title>Teste de Forms</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="UTF-8">
+        <style>
+            .input{
+                display: block;
+                margin: 16px 0;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Testando Formulários</h1>
+        <h2>Form GET</h2>
+        <form method="GET" action="/cadastro.php">
+            <label for="nome">Nome:</label>
+            <input type="text" name="nome">
+            <label for="email">E-mail:</label>
+            <input type="email" name="email">
+            <input type="submit">
+        </form>
+        <br>
+        <h3>Brincando com o Youtube</h3>
+        <h4>Pesquisa</h4>
+        <form method="GET" action="https://www.youtube.com/results">
+            <input type="text" name="search_query" placeholder="Pesquiar no Youtube">
+            <input type="submit">
+        </form>
+        <h4>Assistir Determinado Vídeo</h4>
+        <form method="GET" action="https://www.youtube.com/watch">
+            <label for="v">ID do Vídeo:</label>
+            <input type="text" name="v" placeholder="Digite o ID do vídeo" value="OOoRECN0C5g">
+            <input type="submit">
+        </form>
+        <br>
+        <br>
+        <h2>Form POST</h2>
+        <form method="POST" action="/login.php">
+            <input type="email" name="login" placeholder="Digite seu e-mail">
+            <input type="password" name="senha" placeholder="Digite sua senha">
+            <input type="submit">
+        </form>
+        <br>
+        <br>
+        <h2>Input Types</h2>
+        <form>
+            <input class="input" type="text" name="texto" placeholder="texto">
+            <input class="input" type="email" name="email" placeholder="e-mail">
+            <input class="input" type="password" name="senha" placeholder="senha">
+            <input class="input" type="tel" name="telefone" placeholder="zapzap">
+            <input class="input" type="number" name="numero" placeholder="numero">
+            <input class="input" type="url" name="url" placeholder="URL">
+            <input class="input" type="search" name="pesquisa" placeholder="pesquisa">
+            <input class="input" type="date" name="data">
+            <input class="input" type="datetime-local" name="dataHora">
+            <input class="input" type="checkbox" name="checkbox" value="checkbox">
+            <input class="input" type="color" name="cor">
+            <input class="input" type="file" name="arquivo">
+            <input class="input" type="image" name="imagem">
+            <input class="input" type="range" name="range">
+            <input type="radio" name="radio" value="1" checked>
+            <input type="radio" name="radio" value="2">
+            <input class="input" type="hidden" name="oculto">
+            <input class="input" type="reset" name="reset" value="Limpar">
+            <input class="input" type="submit" value="Enviar">
+        </form>
+        <br>
+        <br>
+        <h2>Select</h2>
+        <form method="GET" action="/select.php">
+            <select name="estado">
+                <option value="SP">São Paulo</option>
+                <option value="GO" selected>Goiás</option>
+                <option value="RO">Rondônia</option>
+            </select>
+            <button type="submit">Enviar</button>
+        </form>
+        <br>
+        <br>
+        <h2>Textarea</h2>
+        <form method="GET" action="/textarea.php">
+            <label class="input" for="email">E-mail:</label>
+            <input class="input" type="email" name="email">
+            <label class="input" for="assunto">Assunto:</label>
+            <input class="input" type="text" name="assunto">
+            <label class="input" for="mensagem">Mensagem:</label>
+            <textarea class="input" name="mensagem"></textarea>
+            <input type="submit">
+        </form>
+    </body>
+</html>
