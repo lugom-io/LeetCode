@@ -22,6 +22,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 380  | [Insert Delete GetRandom O(1)](/LeetCode/solutions/380%20-%20Insert%20Delete%20GetRandom%20O(1).js)                                                  | Medium        |
 | 455  | [Assign Cookies](/LeetCode/solutions/455%20-%20Assign%20Cookies.js)                                                          | Easy        |
 | 506  | [Relative Ranks](/LeetCode/solutions/506%20-%20Relative%20Ranks.js)                                                          | Easy        |
+| 645  | [Set Mismatch](/LeetCode/solutions/645%20-%20Set%20Mismatch.js)                                                          | Easy        |
 | 704  | [Binary Search](/LeetCode/solutions/704%20-%20Binary%20Search.js)                                                              | Easy        |
 | 705  | [Design HashSet](/LeetCode/solutions/705%20-%20Design%20HashSet.js)                                                              | Easy        |
 | 706  | [Design HashMap](/LeetCode/solutions/706%20-%20Design%20HashMap.js)                                                              | Easy        |
