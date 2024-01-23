@@ -1,0 +1,51 @@
+p {
+    padding: 10px;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+p.um{
+    border-style: inset;
+    border-color: red;
+    border-width: 4px;
+    border-radius: 10px;
+}
+
+p.dois{
+    border: 2px dotted black;
+}
+
+p.tres{
+    border-top: 1px solid gray;
+    border-left: 5px dashed green;
+    border-bottom: 3px groove yellow;
+    border-right: 10px solid #f51f8f;
+}
+
+p.quatro{
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    border-top-right-radius: 100px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 60x;
+}
+
+p.cinco{
+    border-width: 10px thin 10px medium;
+    border-radius: 50px 10px 20px 20%;
+    border-color: black gray purple red;
+    border-style: dotted double dashed groove;
+}
+
+p.seis{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    border: 3px outset gray;
+}
