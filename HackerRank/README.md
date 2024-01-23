@@ -9,7 +9,8 @@ Explore essas implementações para aprimorar suas habilidades em programação,
 
 Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no Mac) para pesquisar as soluções.
 
-| Problema    | Soluções                                                                                                                     |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| [Acessar](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)   | [Grading Students](/HackerRank/solutions/Grading%20Students.js)                                                   |
-| [Acessar](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)   | [Apple and Orange](/HackerRank/solutions/Apple%20and%20Orange.js)                                                   |
+| Dificuldade    | Soluções                                                                                                                     |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Easy           | [Grading Students](/HackerRank/solutions/Grading%20Students.js)   |
+| Easy           | [Apple and Orange](/HackerRank/solutions/Apple%20and%20Orange.js)   |
+| Easy           | [Between Two Sets](/HackerRank/solutions/Between%20Two%20Sets.js)   |
