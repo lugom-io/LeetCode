@@ -10,3 +10,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | # | CSS |
 | ---- | ---- |
 | 1 | [Border](/CSS/codes/border/border.css) |
+| 2 | [Outline](/CSS/codes/outline/outline.css) |

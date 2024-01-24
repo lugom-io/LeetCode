@@ -1,0 +1,34 @@
+p{
+    border: 2px solid red;
+    margin: 40px 10px;
+    padding: 15px;
+    max-width: 280px;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    margin: 0 auto;
+    width: fit-content;
+}
+
+p.um{
+    outline-style: solid;
+    outline-color: green;
+    outline-width: 10px;
+    outline-offset: 5px;
+}
+
+p.dois{
+    outline-style: double;
+    outline-color: yellow;
+    outline-width: 5px;
+    outline-offset: 50px;
+    border-radius: 10px;
+}
+
+p.tres{
+    outline: 5px inset black;
+}
