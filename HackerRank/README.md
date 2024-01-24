@@ -9,8 +9,9 @@ Explore essas implementações para aprimorar suas habilidades em programação,
 
 Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no Mac) para pesquisar as soluções.
 
-| Dificuldade    | Soluções                                                                                                                     |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Easy           | [Grading Students](/HackerRank/solutions/Grading%20Students.js)   |
-| Easy           | [Apple and Orange](/HackerRank/solutions/Apple%20and%20Orange.js)   |
-| Easy           | [Between Two Sets](/HackerRank/solutions/Between%20Two%20Sets.js)   |
+| Dificuldade | Soluções                                                                    | Link                                                                       |
+| ----------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Easy        | [Grading Students](/HackerRank/solutions/Grading%20Students.js)   | [Link](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true) |
+| Easy        | [Apple and Orange](/HackerRank/solutions/Apple%20and%20Orange.js)   | [Link](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true) |
+| Easy        | [Between Two Sets](/HackerRank/solutions/Between%20Two%20Sets.js)   | [Link](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true) |
+| Easy        | [Breaking the Records](/HackerRank/solutions/Breaking%20the%20Records.js)   | [Link](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) |
