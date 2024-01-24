@@ -15,3 +15,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | Easy        | [Apple and Orange](/HackerRank/solutions/Apple%20and%20Orange.js)   | [Link](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true) |
 | Easy        | [Between Two Sets](/HackerRank/solutions/Between%20Two%20Sets.js)   | [Link](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true) |
 | Easy        | [Breaking the Records](/HackerRank/solutions/Breaking%20the%20Records.js)   | [Link](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) |
+| Easy        | [Subarray Division](/HackerRank/solutions/Subarray%20Division.js)   | [Link](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true) |
