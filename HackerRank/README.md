@@ -18,3 +18,5 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | Easy        | [Subarray Division](/HackerRank/solutions/Subarray%20Division.js)   | [Link](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true) |
 | Easy        | [Divisible Sum Pairs](/HackerRank/solutions/Divisible%20Sum%20Pairs.js)   | [Link](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true) |
 | Easy        | [Migratory Birds](/HackerRank/solutions/Migratory%20Birds.js)   | [Link](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true) |
+| Easy        | [Day of the Programmer](/HackerRank/solutions/Day%20of%20the%20Programmer.js)   | [Link](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true) |
+| Easy        | [Bill Division](/HackerRank/solutions/Bill%20Division.js)   | [Link](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true) |
