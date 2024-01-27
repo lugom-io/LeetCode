@@ -21,3 +21,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | Easy        | [Day of the Programmer](/HackerRank/solutions/Day%20of%20the%20Programmer.js)   | [Link](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true) |
 | Easy        | [Bill Division](/HackerRank/solutions/Bill%20Division.js)   | [Link](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true) |
 | Easy        | [Sales by Match](/HackerRank/solutions/Sales%20by%20Match.js)   | [Link](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true) |
+| Easy        | [Drawing Book](/HackerRank/solutions/Drawing%20Book.js)   | [Link](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true) |
