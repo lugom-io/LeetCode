@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    counter-reset: titulo;
+    counter-reset: item;
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+section {
+    max-width: fit-content;
+    padding: 40px;
+}
+
+.tof h3 {
+    color: blue;
+    counter-increment: titulo;
+    counter-reset: subtitulo;
+}
+
+.tof h4 {
+    margin-left: 30px;
+    counter-increment: subtitulo;
+}
+
+.tof h3::before {
+    content: counter(titulo);
+    margin-right: 6px;
+}
+
+.tof h4::before {
+    content: counter(titulo) "." counter(subtitulo);
+    margin-right: 6px;
+}
+
+span {
+    display: block;
+    font-size: 18px;
+    counter-increment: item;
+    margin: 10px;
+}
+
+span::before {
+    display: inline-block;
+    content: counter(item);
+    background-color: green;
+    width: 20px;
+    height: 20px;
+    border-radius: 500px;
+    margin-right: 6px;
+    text-align: center;
+    color: white;
+    padding: 2px;
+    font-weight: bold;
+}
