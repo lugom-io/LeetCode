@@ -25,3 +25,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | Easy        | [Counting Valleys](/HackerRank/solutions/Counting%20Valleys.js)   | [Link](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true) |
 | Easy        | [Electronics Shop](/HackerRank/solutions/Electronics%20Shop.js)   | [Link](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true) |
 | Easy        | [Cats and a Mouse](/HackerRank/solutions/Cats%20and%20a%20Mouse.js)   | [Link](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true) |
+| Medium        | [Forming a Magic Square](/HackerRank/solutions/Forming%20a%20Magic%20Square.js)   | [Link](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true) |
