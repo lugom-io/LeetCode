@@ -1,0 +1,132 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body>* {
+    padding: 40px 20px;
+}
+
+a[href="#"] {
+    color: black;
+    text-decoration: dotted;
+    background-color: yellow;
+}
+
+li:first-child a[href="#"] {
+    color: white;
+    background-color: green;
+}
+
+li:last-child a[href="#"] {
+    color: white;
+    background-color: red;
+}
+
+a[href="#"]:hover, li:last-child a[href="#"]:hover, li:first-child a[href="#"]:hover {
+    color: white;
+    background-color: black;
+}
+
+::selection {
+    background-color: darkgreen;
+    color: white;
+}
+
+::marker {
+    color: darkorange;
+}
+
+.site-header {
+    background-color: #000;
+}
+
+.site-header h1 {
+    color: white;
+    margin: 0 0 10px 0;
+    font-size: calc(50px - 10%);
+}
+
+.site-header .main-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.site-header .main-nav ul li {
+    display: inline-block;
+    margin: 0;
+}
+
+.site-header .main-nav ul li a {
+    text-decoration: none;
+    font-size: 16px;
+    font-style: italic;
+    color: black;
+    font-weight: 600;
+    background-color: yellow;
+    display: inline-block;
+    padding: 12px 18px;
+}
+
+.site-header .main-nav ul li a:hover {
+    background-color: gray;
+    color: white;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+
+.content-area {
+    width: 80%;
+}
+
+.sidebar {
+    width: 20%;
+    background-color: rgb(99, 255, 133, 0.5);
+    padding: 20px;
+}
+
+.post{
+    padding: 20px;
+    background-color: gray;
+    color: white;
+}
+
+.post h2::before{
+    content: url("./h2.svg");
+    display: block;
+    width: 25px;
+    height: 25px;
+}
+
+#inicio{
+    background-color: blue;
+}
+
+#sobre p::first-line{
+    font-weight: 600;
+    font-style: oblique;
+}
+
+#sobre p::first-letter{
+    font-size: 60px;
+    color: black;
+}
+
+body > *:last-child{
+    background-color: purple;
+    text-align: center;
+}
+
+footer.site-footer p{
+    color: white;
+    font-variant: small-caps;
+}
