@@ -29,3 +29,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | Easy        | [Picking Numbers](/HackerRank/solutions/Picking%20Numbers.js)   | [Link](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true) |
 | Medium        | [Climbing the Leaderboard](/HackerRank/solutions/Climbing%20the%20Leaderboard.js)   | [Link](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true) |
 | Easy        | [The Hurdle Race](/HackerRank/solutions/The%20Hurdle%20Race.js)   | [Link](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true) |
+| Easy        | [Designer PDF Viewer](/HackerRank/solutions/Designer%20PDF%20Viewer.js)   | [Link](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true) |
