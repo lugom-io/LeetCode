@@ -31,3 +31,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | Easy        | [The Hurdle Race](/HackerRank/solutions/The%20Hurdle%20Race.js)   | [Link](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true) |
 | Easy        | [Designer PDF Viewer](/HackerRank/solutions/Designer%20PDF%20Viewer.js)   | [Link](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true) |
 | Easy        | [Utopian Tree](/HackerRank/solutions/Utopian%20Tree.js)   | [Link](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true) |
+| Easy        | [Angry Professor](/HackerRank/solutions/Angry%20Professor.js)   | [Link](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true) |
