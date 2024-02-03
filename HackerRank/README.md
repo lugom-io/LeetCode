@@ -33,3 +33,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | Easy        | [Utopian Tree](/HackerRank/solutions/Utopian%20Tree.js)   | [Link](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true) |
 | Easy        | [Angry Professor](/HackerRank/solutions/Angry%20Professor.js)   | [Link](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true) |
 | Easy        | [Number Line Jumps](/HackerRank/solutions/Number%20Line%20Jumps.js)   | [Link](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true) |
+| Easy        | [Viral Advertising](/HackerRank/solutions/Viral%20Advertising.js)   | [Link](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true) |
