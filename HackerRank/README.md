@@ -34,3 +34,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | Easy        | [Angry Professor](/HackerRank/solutions/Angry%20Professor.js)   | [Link](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true) |
 | Easy        | [Number Line Jumps](/HackerRank/solutions/Number%20Line%20Jumps.js)   | [Link](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true) |
 | Easy        | [Viral Advertising](/HackerRank/solutions/Viral%20Advertising.js)   | [Link](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true) |
+| Easy        | [Save the Prisoner](/HackerRank/solutions/Save%20the%20Prisoner.js)   | [Link](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true) |
