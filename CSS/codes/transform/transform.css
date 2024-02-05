@@ -1,0 +1,120 @@
+*:not(p) {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    vertical-align: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    vertical-align: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.content {
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 300px;
+}
+
+.content h2 {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.content p {
+    font-size: 18px;
+}
+
+#div1 {
+    position: relative;
+}
+
+#div1,
+#div1 * {
+    transition: all .3s;
+}
+
+#div1 #c1 {
+    background-color: red;
+    color: white;
+}
+
+#div1 #c2 {
+    background-color: lightgreen;
+    color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transform: rotateY(-180deg);
+}
+
+#div1:hover {
+    transform: rotateY(180deg);
+}
+
+#div1:hover #c2 {
+    opacity: 1;
+}
+
+.square {
+    background-color: blue;
+    color: white;
+}
+
+#div2 {
+    background-color: aqua;
+}
+
+#div2:hover {
+    transform: skew(10deg, 5deg);
+}
+
+#div3 {
+    background-color: tan;
+}
+
+#div3:hover {
+    transform: translate(20px, -10px);
+}
+
+#div4 {
+    background-color: blue;
+    color: white;
+}
+
+#div4:hover {
+    transform: scale(1.2, 1.2);
+}
+
+#div5 {
+    background-color: green;
+    color: white;
+}
+
+#div5:hover {
+    transform: rotate(30deg);
+}
+
+#div6 {
+    background-color: purple;
+    color: white;
+}
+
+#div6:hover {
+    transform: matrix(1.2, -0.6, 1, 0.6, 0, 1);
+    box-shadow: 4px 8px 4px rgba(0, 0, 0, 0.1);
+}
