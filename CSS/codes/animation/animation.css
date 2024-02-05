@@ -1,0 +1,93 @@
+main{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+@keyframes quadradoDoido {
+    0% {left: 0;top: 0;}
+
+    25% {left: 50px;top: 0;}
+
+    50% {left: 50px;top: 50px;}
+
+    75% {left: 0;top: 50px;}
+
+    100% {left: 0;top: 0;}
+}
+
+@keyframes load {
+    0% {transform: rotate(0deg);}
+
+    25% {transform: rotate(90deg);}
+
+    50% {transform: rotate(180deg);}
+
+    75% {transform: rotate(270deg);}
+
+    100% {transform: rotate(360deg);}
+}
+
+@keyframes hypno {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(360deg);}
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: relative;
+}
+
+#div1 {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    left: 0;
+    top: 0;
+    position: absolute;
+    animation-name: quadradoDoido;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+
+#load{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-radius: 500px;
+    animation-name: load;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.load {
+    width: 50px;
+    height: 50px;
+}
+
+.load:nth-child(1), .load:nth-child(4){
+    background-color: white;
+}
+
+#hypno{
+    background: url(https://img.freepik.com/free-vector/black-white-spiral-background_78370-3041.jpg) no-repeat center center;
+    background-size: cover;
+    border-radius: 500px;
+    width: 300px;
+    height: 300px;
+    animation: load 3s linear infinite;
+    position: relative;
+}
+
+#hypno img{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    transform: translate(-50%, -50%);
+}

@@ -15,3 +15,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 4 | [Selectors](/CSS/codes/selectors/selectors.css) |
 | 5 | [Counter](/CSS/codes/counter/counter.css) |
 | 6 | [Transform](/CSS/codes/transform/transform.css) |
+| 7 | [Animation](/CSS/codes/animation/animation.css) |
