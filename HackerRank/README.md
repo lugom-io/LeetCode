@@ -39,3 +39,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | Easy        | [Sequence Equation](/HackerRank/solutions/Sequence%20Equation.js)   | [Link](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true) |
 | Easy        | [Jumping on the Clouds](/HackerRank/solutions/Jumping%20on%20the%20Clouds.js)   | [Link](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?isFullScreen=true) |
 | Easy        | [Find Digits](/HackerRank/solutions/Find%20Digits.js)   | [Link](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true) |
+| Medium        | [Extra Long Factorials](/HackerRank/solutions/Extra%20Long%20Factorials.js)   | [Link](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true) |
