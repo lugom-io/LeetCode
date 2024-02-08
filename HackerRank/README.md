@@ -41,3 +41,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | Easy        | [Find Digits](/HackerRank/solutions/Find%20Digits.js)   | [Link](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true) |
 | Medium        | [Extra Long Factorials](/HackerRank/solutions/Extra%20Long%20Factorials.js)   | [Link](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true) |
 | Easy        | [Append and Delete](/HackerRank/solutions/Append%20and%20Delete.js)   | [Link](https://www.hackerrank.com/challenges/append-and-delete/problem?isFullScreen=true) |
+| Easy        | [Sherlock and Squares](/HackerRank/solutions/Sherlock%20and%20Squares.js)   | [Link](https://www.hackerrank.com/challenges/sherlock-and-squares/problem?isFullScreen=true) |
