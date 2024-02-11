@@ -42,3 +42,6 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | Medium        | [Extra Long Factorials](/HackerRank/solutions/Extra%20Long%20Factorials.js)   | [Link](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true) |
 | Easy        | [Append and Delete](/HackerRank/solutions/Append%20and%20Delete.js)   | [Link](https://www.hackerrank.com/challenges/append-and-delete/problem?isFullScreen=true) |
 | Easy        | [Sherlock and Squares](/HackerRank/solutions/Sherlock%20and%20Squares.js)   | [Link](https://www.hackerrank.com/challenges/sherlock-and-squares/problem?isFullScreen=true) |
+| Easy        | [Library Fine](/HackerRank/solutions/Library%20Fine.js)   | [Link](https://www.hackerrank.com/challenges/library-fine/problem?isFullScreen=true) |
+| Easy        | [Cut the sticks](/HackerRank/solutions/Cut%20the%20sticks.js)   | [Link](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true) |
+| Medium        | [Non-Divisible Subset](/HackerRank/solutions/Non-Divisible%20Subset.js)   | [Link](https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true) |
