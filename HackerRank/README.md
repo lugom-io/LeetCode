@@ -45,3 +45,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | Easy        | [Library Fine](/HackerRank/solutions/Library%20Fine.js)   | [Link](https://www.hackerrank.com/challenges/library-fine/problem?isFullScreen=true) |
 | Easy        | [Cut the sticks](/HackerRank/solutions/Cut%20the%20sticks.js)   | [Link](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true) |
 | Medium        | [Non-Divisible Subset](/HackerRank/solutions/Non-Divisible%20Subset.js)   | [Link](https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true) |
+| Easy        | [Repeated String](/HackerRank/solutions/Repeated%20String.js)   | [Link](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true) |
