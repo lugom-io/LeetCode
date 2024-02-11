@@ -44,3 +44,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | Easy        | [Sherlock and Squares](/HackerRank/solutions/Sherlock%20and%20Squares.js)   | [Link](https://www.hackerrank.com/challenges/sherlock-and-squares/problem?isFullScreen=true) |
 | Easy        | [Library Fine](/HackerRank/solutions/Library%20Fine.js)   | [Link](https://www.hackerrank.com/challenges/library-fine/problem?isFullScreen=true) |
 | Easy        | [Cut the sticks](/HackerRank/solutions/Cut%20the%20sticks.js)   | [Link](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true) |
+| Medium        | [Non-Divisible Subset](/HackerRank/solutions/Non-Divisible%20Subset.js)   | [Link](https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true) |
