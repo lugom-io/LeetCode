@@ -46,3 +46,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | Easy        | [Cut the sticks](/HackerRank/solutions/Cut%20the%20sticks.js)   | [Link](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true) |
 | Medium        | [Non-Divisible Subset](/HackerRank/solutions/Non-Divisible%20Subset.js)   | [Link](https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true) |
 | Easy        | [Repeated String](/HackerRank/solutions/Repeated%20String.js)   | [Link](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true) |
+| Easy        | [Jumping on the Clouds 2](/HackerRank/solutions/Jumping%20on%20the%20Clouds%202.js)   | [Link](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true) |
