@@ -49,3 +49,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | Easy        | [Jumping on the Clouds 2](/HackerRank/solutions/Jumping%20on%20the%20Clouds%202.js)   | [Link](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true) |
 | Easy        | [Equalize the Array](/HackerRank/solutions/Equalize%20the%20Array.js)   | [Link](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true) |
 | Medium        | [Queen's Attack II](/HackerRank/solutions/Queen's%20Attack%20II.js)   | [Link](https://www.hackerrank.com/challenges/queens-attack-2/problem?isFullScreen=true) |
+| Easy        | [ACM ICPC Team](/HackerRank/solutions/ACM%20ICPC%20Team.js)   | [Link](https://www.hackerrank.com/challenges/acm-icpc-team/problem?isFullScreen=true) |
