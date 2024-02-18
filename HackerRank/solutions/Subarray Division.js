@@ -1,5 +1,4 @@
 function birthday(s, d, m) {
-    // Write your code here
     let count = 0;
 
     for (let i = 0; i < s.length; i++) {
@@ -12,4 +11,19 @@ function birthday(s, d, m) {
     }
     
     return count;
+}
+
+// SOLUTION 2
+function birthday(s, d, m) {
+    let segments = 0;
+    
+    for(let i = 0; i <= s.length - m; i++){
+        let currentSegment = 0;
+        for(let j = i; j <= i + m - 1; j++){
+            currentSegment += s[j];
+        }
+        if(currentSegment == d) segments++;
+    }
+    
+    return segments;
 }
