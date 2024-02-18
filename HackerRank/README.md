@@ -51,3 +51,5 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | Medium        | [Queen's Attack II](/HackerRank/solutions/Queen's%20Attack%20II.js)   | [Link](https://www.hackerrank.com/challenges/queens-attack-2/problem?isFullScreen=true) |
 | Easy        | [ACM ICPC Team](/HackerRank/solutions/ACM%20ICPC%20Team.js)   | [Link](https://www.hackerrank.com/challenges/acm-icpc-team/problem?isFullScreen=true) |
 | Easy        | [Beautiful Days at the Movies](/HackerRank/solutions/Beautiful%20Days%20at%20the%20Movies.js)   | [Link](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) |
+| Medium        | [Organizing Containers of Balls](/HackerRank/solutions/Organizing%20Containers%20of%20Balls.js)   | [Link](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem?isFullScreen=true) |
+| Medium        | [The Maximum Subarray](/HackerRank/solutions/The%20Maximum%20Subarray.js)   | [Link](https://www.hackerrank.com/challenges/maxsubarray/problem) |
