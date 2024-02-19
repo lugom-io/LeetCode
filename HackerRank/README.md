@@ -56,3 +56,4 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | Easy        | [Arrays - DS](/HackerRank/solutions/Arrays%20-%20DS.js)   | [Link](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true) |
 | Easy        | [2D Array - DS](/HackerRank/solutions/2D%20Array%20-%20DS.js)   | [Link](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true) |
 | Easy        | [Left Rotation](/HackerRank/solutions/Left%20Rotation.js)   | [Link](https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true) |
+| Medium        | [Sparse Arrays](/HackerRank/solutions/Sparse%20Arrays.js)   | [Link](https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true) |
