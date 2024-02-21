@@ -47,7 +47,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 1704 | [Determine if String Halves Are Alike](/LeetCode/solutions/1704%20-%20Determine%20if%20String%20Halves%20Are%20Alike.js)                                      | Easy        |
 | 1716 | [Calculate Money in Leetcode Bank](/LeetCode/solutions/1716%20-%20Calculate%20Money%20in%20Leetcode%20Bank.js)               | Easy        |
 | 1758 | [Minimum Changes To Make Alternating Binary String](/LeetCode/solutions/1758%20-%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.js)                           | Easy        |
-| 1877 | [Minimize Maximum Pair Sum in Array](/LeetCode/solutions/1897%20-%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.js)                           | Medium        |
+| 1877 | [Minimize Maximum Pair Sum in Array](/LeetCode/solutions/1877%20-%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.js)                           | Medium        |
 | 1897 | [Redistribute Characters to Make All Strings Equal](/LeetCode/solutions/1897%20-%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.js)                           | Easy        |
 | 1903 | [Largest Odd Number in String](/LeetCode/solutions/1903%20-%20Largest%20Odd%20Number%20in%20String.js)                       | Easy        |
 | 2089 | [Find Target Indices After Sorting Array](/LeetCode/solutions/2089%20-%20Find%20Target%20Indices%20After%20Sorting%20Array.js) | Easy        |
