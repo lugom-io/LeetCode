@@ -18,6 +18,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 50   | [Pow(x, n)](/LeetCode/solutions/50%20-%20Pow(x,%20n).js)                                         | Medium        |
 | 70   | [Climbing Stairs](/LeetCode/solutions/70%20-%20Climbing%20Stairs.js)                                         | Easy        |
 | 91   | [Decode Ways](/LeetCode/solutions/91%20-%20Decode%20Ways.js)                                                                 | Medium      |
+| 162   | [Find Peak Element](/LeetCode/solutions/162%20-%20Find%20Peak%20Element.js)                                                                 | Medium      |
 | 169  | [Majority Element](/LeetCode/solutions/169%20-%20Majority%20Element.js)                                                      | Easy        |
 | 278  | [First Bad Version](/LeetCode/solutions/278%20-%20First%20Bad%20Version.js)                                                  | Easy        |
 | 380  | [Insert Delete GetRandom O(1)](/LeetCode/solutions/380%20-%20Insert%20Delete%20GetRandom%20O(1).js)                                                  | Medium        |
