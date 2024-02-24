@@ -16,6 +16,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 34   | [Find First and Last Position of Element in Sorted Array](/LeetCode/solutions/34%20-%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.js) | Medium      |
 | 35   | [Search Insert Position](/LeetCode/solutions/35%20-%20Search%20Insert%20Position.js)                                         | Easy        |
 | 50   | [Pow(x, n)](/LeetCode/solutions/50%20-%20Pow(x,%20n).js)                                         | Medium        |
+| 56   | [Pow(x, n)](/LeetCode/solutions/56%20-%20Merge%20Intervals.js)                                         | Medium        |
 | 70   | [Climbing Stairs](/LeetCode/solutions/70%20-%20Climbing%20Stairs.js)                                         | Easy        |
 | 91   | [Decode Ways](/LeetCode/solutions/91%20-%20Decode%20Ways.js)                                                                 | Medium      |
 | 162   | [Find Peak Element](/LeetCode/solutions/162%20-%20Find%20Peak%20Element.js)                                                                 | Medium      |
