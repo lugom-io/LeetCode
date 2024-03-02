@@ -39,6 +39,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 872  | [Leaf-Similar Trees](/LeetCode/solutions/872%20-%20Leaf-Similar%20Trees.js)                                                        | Easy        |
 | 907  | [Sum of Subarray Minimums](/LeetCode/solutions/907%20-%20Sum%20of%20Subarray%20Minimums.js)                                                        | Medium        |
 | 938  | [Range Sum of BST](/LeetCode/solutions/938%20-%20Range%20Sum%20of%20BST.js)                                                        | Easy        |
+| 977  | [Squares of a Sorted Array](/LeetCode/solutions/977%20-%20Squares%20of%20a%20Sorted%20Array.js)                                                        | Easy        |
 | 997  | [Find the Town Judge](/LeetCode/solutions/997%20-%20Find%20the%20Town%20Judge.js)                                                        | Easy        |
 | 1103 | [Distribute Candies to People](/LeetCode/solutions/1103%20-%20Distribute%20Candies%20to%20People.js)                         | Easy        |
 | 1154 | [Day of the Year](/LeetCode/solutions/1154%20-%20Day%20of%20the%20Year.js)                                                  | Easy        |
