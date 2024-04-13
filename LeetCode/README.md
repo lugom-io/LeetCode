@@ -13,6 +13,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | ---- | ----------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | 12   | [Integer to Roman](/LeetCode/solutions/12%20-%20Integer%20to%20Roman.js)                                                   | Medium      |
 | 13   | [Roman to Integer](/LeetCode/solutions/13%20-%20Roman%20to%20Integer.js)                                                   | Easy        |
+| 15   | [3Sum](/LeetCode/solutions/15%20-%203Sum.js)                                                   | Medium        |
 | 18   | [4Sum](/LeetCode/solutions/18%20-%204Sum.js)                                                   | Medium      |
 | 27   | [Remove Element](/LeetCode/solutions/27%20-%20Remove%20Element.js)                                                   | Easy      |
 | 33   | [Search in Rotated Sorted Array](/LeetCode/solutions/33%20-%20Search%20in%20Rotated%20Sorted%20Array.js)                                                   | Medium      |
