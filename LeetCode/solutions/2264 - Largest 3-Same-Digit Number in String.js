@@ -37,13 +37,14 @@
  * @return {string}
  */
 var largestGoodInteger = function (num) {
-    let result = "";
+    let ans = "";
 
-    for (let i = 0; i < num.length; i++) {
-        if (num.charAt(i) === num.charAt(i + 1) && num.charAt(i) === num.charAt(i + 2) && num.charAt(i) > result.charAt(0)) {
-            result = num.substring(i, i + 3);
+    for (let i = 0; i < num.length - 2; i++) {
+        const subString = num.slice(i, i + 3);
+        if (subString[0] == subString[1] && subString[0] == subString[2] && subString > ans) {
+            ans = subString;
         }
     }
 
-    return result;
+    return ans;
 };
