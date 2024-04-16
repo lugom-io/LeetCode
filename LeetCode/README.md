@@ -34,6 +34,7 @@ Pressione <kbd>Ctrl</kbd> + <kbd>F</kbd>(ou <kbd>Command</kbd> + <kbd>F</kbd> no
 | 455  | [Assign Cookies](/LeetCode/solutions/455%20-%20Assign%20Cookies.js)                                                          | Easy        |
 | 506  | [Relative Ranks](/LeetCode/solutions/506%20-%20Relative%20Ranks.js)                                                          | Easy        |
 | 543  | [Diameter of Binary Tree](/LeetCode/solutions/543%20-%20Diameter%20of%20Binary%20Tree.js)                                                          | Easy        |
+| 623  | [Add One Row to Tree](/LeetCode/solutions/623%20-%20Add%20One%20Row%20to%20Tree.js)                                                          | Medium        |
 | 645  | [Set Mismatch](/LeetCode/solutions/645%20-%20Set%20Mismatch.js)                                                          | Easy        |
 | 704  | [Binary Search](/LeetCode/solutions/704%20-%20Binary%20Search.js)                                                              | Easy        |
 | 705  | [Design HashSet](/LeetCode/solutions/705%20-%20Design%20HashSet.js)                                                              | Easy        |
